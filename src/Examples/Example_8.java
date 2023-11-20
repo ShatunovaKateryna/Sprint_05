@@ -1,6 +1,7 @@
 package Examples;
 
 public class Example_8 {
+    //Shatunova Kateryna CS-12
     public static void main(String[] args) {
         System.out.println(Math.ceil(2.1));
         System.out.println(Math.ceil(2.0));

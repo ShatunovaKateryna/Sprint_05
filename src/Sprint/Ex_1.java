@@ -5,7 +5,6 @@ public class Ex_1 {
     public static void main(String[] args) {
         dayOfWeek(2, 14, 2000);
         dayOfWeek(11, 19, 2023);//19.11.2023 неділя = 0
-
     }
 
     public static int dayOfWeek(int m, int d, int y) {
@@ -15,6 +14,5 @@ public class Ex_1 {
         int d0 = (d + x + 31 * m0 / 12) % 7;
         System.out.println(d0);
         return d0;
-
     }
 }

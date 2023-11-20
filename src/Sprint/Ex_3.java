@@ -1,6 +1,7 @@
 package Sprint;
 
 public class Ex_3 {
+    //Shatunova Kateryna CS-12
     public static void main(String[] args) {
         distance(2, 6, 4, 12);
     }

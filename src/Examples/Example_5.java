@@ -1,6 +1,7 @@
 package Examples;
 
 public class Example_5 {
+    //Shatunova Kateryna CS-12
     public static void main(String[] args) {
         drawLine(5, "+", "|", "o");
         System.out.println();
