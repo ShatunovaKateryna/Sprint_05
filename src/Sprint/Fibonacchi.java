@@ -1,6 +1,6 @@
 package Sprint;
 
-public class Ex_5 {
+public class Fibonacchi {
     //Shatunova Kateryna CS-12
     public static void main(String[] args) {
         int Month = 12;
@@ -8,7 +8,6 @@ public class Ex_5 {
         for (int i = 1; i <= Month; i++) {
             System.out.println("\t" + i + "\t\t\t   " + (int) fibonacchi(i));
         }
-        System.out.println();
     }
 
     public static double fibonacchi(int N) {

@@ -1,6 +1,6 @@
 package Sprint;
 
-public class Ex_2 {
+public class SumOfTwoDice {
     //Shatunova Kateryna CS-12
     public static void main(String[] args) {
         for (int i = 1; i <= 25; i++) {

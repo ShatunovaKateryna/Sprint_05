@@ -1,10 +1,10 @@
 package Sprint;
 
-public class Ex_1 {
+public class DayOfWeek {
     //Shatunova Kateryna CS-12
     public static void main(String[] args) {
         dayOfWeek(2, 14, 2000);
-        dayOfWeek(11, 19, 2023);//19.11.2023 неділя = 0
+        dayOfWeek(11, 19, 2023);
     }
 
     public static int dayOfWeek(int m, int d, int y) {
